@@ -2,5 +2,6 @@
     "isActive" : true,
     "isShowMessage" : false,
     "message" : "",
-    "appVersion" : 2
+    "appVersion" : 2,
+    "host" : "https://www.nettruyenus.com"
 }
