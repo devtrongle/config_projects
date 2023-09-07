@@ -2,6 +2,8 @@
     "isActive" : true,
     "isShowMessage" : false,
     "message" : "",
-    "appVersion" : 2,
-    "host" : "https://www.nettruyenus.com"
+    "appVersion" : 6,
+    "host" : "https://www.nettruyenus.com",
+    "breakTimeAdsMillis": 600000,
+    "removeAdsMillis" : 3600000
 }
