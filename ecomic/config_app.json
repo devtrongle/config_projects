@@ -4,6 +4,7 @@
     "message" : "",
     "appVersion" : 10,
     "host" : "https://www.nettruyenus.com",
+    "server" : "https://ecomic-server.vercel.app",
     "breakTimeAdsMillis": 300000,
     "removeAdsMillis" : 3600000,
     "isEnableAds" : true
