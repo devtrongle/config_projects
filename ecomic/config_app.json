@@ -8,5 +8,5 @@
     "breakTimeAdsMillis": 1200000,
     "startAdsAfter": 300000,
     "removeAdsMillis" : 3600000,
-    "isEnableAds" : true
+    "isEnableAds" : false
 }
