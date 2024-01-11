@@ -1,13 +1,3 @@
 {
-   "version": 1,
-   "domains": [
-      {
-       "comicSource": "NETTRUYEN",
-       "domain": "https://www.nettruyenclub.com"
-      },
-      {
-       "comicSource": "BEETOON",
-       "domain": "https://manhwafull.net"
-      }
-   ]
+   "version": 1
 }
