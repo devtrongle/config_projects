@@ -1,0 +1,80 @@
+[
+    {
+        "id": 13,
+        "name": "Ecchi",
+        "key": "13",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 58,
+        "name": "Yaoi",
+        "key": "58",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 59,
+        "name": "Yuri",
+        "key": "59",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 60,
+        "name": "16+",
+        "key": "60",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 61,
+        "name": "18+",
+        "key": "61",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 44,
+        "name": "Smut",
+        "key": "44",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 45,
+        "name": "Soft Yaoi",
+        "key": "45",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 46,
+        "name": "Soft Yuri",
+        "key": "46",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 10,
+        "name": "Doujinshi",
+        "key": "10",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 40,
+        "name": "Shoujo Ai",
+        "key": "40",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 2,
+        "name": "Adult",
+        "key": "2",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 12,
+        "name": "Đam Mỹ",
+        "key": "12",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 27,
+        "name": "Mature",
+        "key": "27",
+        "comicSource": "NETTRUYEN"
+    }
+]

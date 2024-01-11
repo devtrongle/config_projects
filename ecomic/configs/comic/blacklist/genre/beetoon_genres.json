@@ -1,0 +1,62 @@
+[
+    {
+        "comicSource": "BEETOON",
+        "id": -4485394563977734000,
+        "key": "ecchi",
+        "name": "Ecchi"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": 2235534894544480500,
+        "key": "yaoi",
+        "name": "Yaoi"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": 2235534894544499700,
+        "key": "yuri",
+        "name": "Yuri"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": 2235534894544313300,
+        "key": "smut",
+        "name": "Smut"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": 7882584281988612000,
+        "key": "doujinshi",
+        "name": "Doujinshi"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": 7882596877756660000,
+        "key": "shoujo-ai",
+        "name": "Shoujo Ai"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": -4485394563981380600,
+        "key": "adult",
+        "name": "Adult"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": 8526721106594367000,
+        "key": "mature",
+        "name": "Mature"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": -4485394563975009000,
+        "key": "harem",
+        "name": "Harem"
+    },
+    {
+        "comicSource": "BEETOON",
+        "id": -4485394563981380600,
+        "key": "adult",
+        "name": "Adult"
+    }
+]

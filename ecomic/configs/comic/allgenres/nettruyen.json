@@ -1,0 +1,344 @@
+[
+    {
+        "id": 1,
+        "name": "Action",
+        "key": "1",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 2,
+        "name": "Adult",
+        "key": "2",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 3,
+        "name": "Adventure",
+        "key": "3",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 4,
+        "name": "Anime",
+        "key": "4",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 5,
+        "name": "Chuyển Sinh",
+        "key": "5",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 6,
+        "name": "Comedy",
+        "key": "6",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 7,
+        "name": "Comic",
+        "key": "7",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 8,
+        "name": "Cooking",
+        "key": "8",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 9,
+        "name": "Cổ Đại",
+        "key": "9",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 10,
+        "name": "Doujinshi",
+        "key": "10",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 11,
+        "name": "Drama",
+        "key": "11",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 12,
+        "name": "Đam Mỹ",
+        "key": "12",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 13,
+        "name": "Ecchi",
+        "key": "13",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 14,
+        "name": "Fantasy",
+        "key": "14",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 15,
+        "name": "Gender Bender",
+        "key": "15",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 16,
+        "name": "Harem",
+        "key": "16",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 17,
+        "name": "Lịch sử",
+        "key": "17",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 18,
+        "name": "Horror",
+        "key": "18",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 20,
+        "name": "Josei",
+        "key": "20",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 21,
+        "name": "Live action",
+        "key": "21",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 23,
+        "name": "Manga",
+        "key": "23",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 24,
+        "name": "Manhua",
+        "key": "24",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 25,
+        "name": "Manhwa",
+        "key": "25",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 26,
+        "name": "Martial Arts",
+        "key": "26",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 27,
+        "name": "Mature",
+        "key": "27",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 28,
+        "name": "Mecha",
+        "key": "28",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 30,
+        "name": "Mystery",
+        "key": "30",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 32,
+        "name": "Ngôn Tình",
+        "key": "32",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 33,
+        "name": "One shot",
+        "key": "33",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 34,
+        "name": "Psychological",
+        "key": "34",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 35,
+        "name": "Romance",
+        "key": "35",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 36,
+        "name": "School Life",
+        "key": "36",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 37,
+        "name": "Sci-fi",
+        "key": "37",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 38,
+        "name": "Seinen",
+        "key": "38",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 39,
+        "name": "Shoujo",
+        "key": "39",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 40,
+        "name": "Shoujo Ai",
+        "key": "40",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 41,
+        "name": "Shounen",
+        "key": "41",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 42,
+        "name": "Shounen Ai",
+        "key": "42",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 43,
+        "name": "Slice of Life",
+        "key": "43",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 44,
+        "name": "Smut",
+        "key": "44",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 45,
+        "name": "Soft Yaoi",
+        "key": "45",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 46,
+        "name": "Soft Yuri",
+        "key": "46",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 47,
+        "name": "Sports",
+        "key": "47",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 48,
+        "name": "Supernatural",
+        "key": "48",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 49,
+        "name": "Tạp chí truyện tranh",
+        "key": "49",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 50,
+        "name": "Thiếu Nhi",
+        "key": "50",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 51,
+        "name": "Tragedy",
+        "key": "51",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 52,
+        "name": "Trinh Thám",
+        "key": "52",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 53,
+        "name": "Truyện Màu",
+        "key": "53",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 54,
+        "name": "Truyện scan",
+        "key": "54",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 55,
+        "name": "Việt Nam",
+        "key": "55",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 56,
+        "name": "Webtoon",
+        "key": "56",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 57,
+        "name": "Xuyên Không",
+        "key": "57",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 58,
+        "name": "Yaoi",
+        "key": "58",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 59,
+        "name": "Yuri",
+        "key": "59",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 60,
+        "name": "16+",
+        "key": "60",
+        "comicSource": "NETTRUYEN"
+    },
+    {
+        "id": 61,
+        "name": "18+",
+        "key": "61",
+        "comicSource": "NETTRUYEN"
+    }
+]
