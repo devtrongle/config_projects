@@ -1,0 +1,54 @@
+[
+    {
+        "comicSource": "MYTOON",
+        "id": 12,
+        "key": "12",
+        "name": "Ecchi"
+    },{
+        "comicSource": "MYTOON",
+        "id": 41,
+        "key": "41",
+        "name": "Yaoi"
+    },{
+        "comicSource": "MYTOON",
+        "id": 42,
+        "key": "42",
+        "name": "Yuri"
+    },{
+        "comicSource": "MYTOON",
+        "id": 40,
+        "key": "40",
+        "name": "Smut"
+    },{
+        "comicSource": "MYTOON",
+        "id": 10,
+        "key": "10",
+        "name": "Doujinshi"
+    },{
+        "comicSource": "MYTOON",
+        "id": 36,
+        "key": "36",
+        "name": "Shoujo Ai"
+    }, {
+        "comicSource": "MYTOON",
+        "id": 3,
+        "key": "3",
+        "name": "Adult"
+    },{
+        "comicSource": "MYTOON",
+        "id": 26,
+        "key": "26",
+        "name": "Mature"
+    },{
+        "comicSource": "MYTOON",
+        "id": 16,
+        "key": "16",
+        "name": "Harem"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 68,
+        "key": "68",
+        "name": "Soft Yaoi"
+    }
+]
