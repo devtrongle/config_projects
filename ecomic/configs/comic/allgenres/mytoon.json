@@ -1,0 +1,410 @@
+[
+    {
+        "comicSource": "MYTOON",
+        "id": 2,
+        "key": "2",
+        "name": "Action"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 3,
+        "key": "3",
+        "name": "Adult"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 4,
+        "key": "4",
+        "name": "Anime"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 5,
+        "key": "5",
+        "name": "Adventure"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 6,
+        "key": "6",
+        "name": "Comedy"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 7,
+        "key": "7",
+        "name": "Comic"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 8,
+        "key": "8",
+        "name": "Cooking"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 9,
+        "key": "9",
+        "name": "Indonesian"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 10,
+        "key": "10",
+        "name": "Doujinshi"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 11,
+        "key": "11",
+        "name": "Drama"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 12,
+        "key": "12",
+        "name": "Ecchi"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 13,
+        "key": "13",
+        "name": "Fantasy"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 15,
+        "key": "15",
+        "name": "Gender Bender"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 16,
+        "key": "16",
+        "name": "Harem"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 17,
+        "key": "17",
+        "name": "Historical"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 18,
+        "key": "18",
+        "name": "Horror"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 19,
+        "key": "19",
+        "name": "Josei"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 20,
+        "key": "20",
+        "name": "Live action"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 21,
+        "key": "21",
+        "name": "Magic"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 22,
+        "key": "22",
+        "name": "Manga"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 23,
+        "key": "23",
+        "name": "Manhua"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 24,
+        "key": "24",
+        "name": "Manhwa"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 25,
+        "key": "25",
+        "name": "Martial Arts"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 26,
+        "key": "26",
+        "name": "Mature"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 27,
+        "key": "27",
+        "name": "Mecha"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 28,
+        "key": "28",
+        "name": "Mystery"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 29,
+        "key": "29",
+        "name": "One shot"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 30,
+        "key": "30",
+        "name": "Psychological"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 31,
+        "key": "31",
+        "name": "Romance"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 32,
+        "key": "32",
+        "name": "School Life"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 33,
+        "key": "33",
+        "name": "Sci-fi"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 34,
+        "key": "34",
+        "name": "Seinen"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 35,
+        "key": "35",
+        "name": "Shoujo"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 36,
+        "key": "36",
+        "name": "Shoujo Ai"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 37,
+        "key": "37",
+        "name": "Shounen"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 38,
+        "key": "38",
+        "name": "Shounen Ai"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 39,
+        "key": "39",
+        "name": "Slice of life"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 40,
+        "key": "40",
+        "name": "Smut"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 41,
+        "key": "41",
+        "name": "Yaoi"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 42,
+        "key": "42",
+        "name": "Yuri"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 43,
+        "key": "43",
+        "name": "Sports"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 44,
+        "key": "44",
+        "name": "Supernatural"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 45,
+        "key": "45",
+        "name": "Tragedy"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 46,
+        "key": "46",
+        "name": "Trap"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 47,
+        "key": "47",
+        "name": "Full Color"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 49,
+        "key": "49",
+        "name": "Webtoons"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 50,
+        "key": "50",
+        "name": "Science fiction"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 51,
+        "key": "51",
+        "name": "Mafia"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 52,
+        "key": "52",
+        "name": "Web comic"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 53,
+        "key": "53",
+        "name": "Sci fi"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 54,
+        "key": "54",
+        "name": "Zombies"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 55,
+        "key": "55",
+        "name": "Adaptation"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 56,
+        "key": "56",
+        "name": "Time travel"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 57,
+        "key": "57",
+        "name": "Webtoon"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 58,
+        "key": "58",
+        "name": "Isekai"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 59,
+        "key": "59",
+        "name": "Anthology"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 60,
+        "key": "60",
+        "name": "Music"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 61,
+        "key": "61",
+        "name": "Medical"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 62,
+        "key": "62",
+        "name": "4 koma"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 63,
+        "key": "63",
+        "name": "Monster girls"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 64,
+        "key": "64",
+        "name": "Monsters"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 65,
+        "key": "65",
+        "name": "Japanese"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 66,
+        "key": "66",
+        "name": "Long strip"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 67,
+        "key": "67",
+        "name": "Official colored"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 68,
+        "key": "68",
+        "name": "Soft Yaoi"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 69,
+        "key": "69",
+        "name": "Korean"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 70,
+        "key": "70",
+        "name": "Thriller"
+    },
+    {
+        "comicSource": "MYTOON",
+        "id": 71,
+        "key": "71",
+        "name": "Office workers"
+    }
+]
