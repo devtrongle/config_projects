@@ -6,5 +6,9 @@
       {
             "comicSource": "BEETOON",
             "domain": "https://manhwafull.net"
+      },
+      {
+            "comicSource": "MYTOON",
+            "domain": "http://148.251.15.245:8080"
       }
 ]
