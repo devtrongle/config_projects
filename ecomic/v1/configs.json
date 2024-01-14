@@ -38,11 +38,11 @@
          "genres": [
             {
                "comic_source": "NETTRUYEN",
-               "url": "/comic/blacklist/comic/nettruyen.json"
+               "url": "/comic/blacklist/genre/nettruyen.json"
             },
             {
                "comic_source": "BEETOOM",
-               "url": "/comic/blacklist/comic/beetoon.json"
+               "url": "/comic/blacklist/genre/beetoon.json"
             }
          ],
          "comics": [
