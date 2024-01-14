@@ -2,15 +2,25 @@
    "version": 1,
    "latest_update": "2024/01/14 12:00",
    "domains": [
-      {
+       {
          "comicSource": "NETTRUYEN",
-         "domain": "https://www.nettruyenclub.com",
+         "domain": "https://www.nettruyenus.com",
          "order": 0
       },
       {
          "comicSource": "NETTRUYEN",
-         "domain": "https://nettruyenviet.com",
+         "domain": "https://www.nettruyenclub.com",
          "order": 1
+      },
+      {
+         "comicSource": "NETTRUYEN",
+         "domain": "https://www.nettruyenbing.com",
+         "order": 2
+      },
+      {
+         "comicSource": "NETTRUYEN",
+         "domain": "https://nettruyenviet.com",
+         "order": 3
       },
       {
          "comicSource": "BEETOON",
