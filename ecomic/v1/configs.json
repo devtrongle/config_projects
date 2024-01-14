@@ -1,0 +1,56 @@
+{
+   "version": 1,
+   "latest_update": "2024/01/14 12:00",
+   "domains": [
+      {
+         "comicSource": "NETTRUYEN",
+         "domain": "https://www.nettruyenclub.com",
+         "order": 0
+      },
+      {
+         "comicSource": "NETTRUYEN",
+         "domain": "https://nettruyenviet.com",
+         "order": 1
+      },
+      {
+         "comicSource": "BEETOON",
+         "domain": "https://manhwafull.net",
+         "order": 0
+      },
+      {
+         "comicSource": "MYTOON",
+         "domain": "http://148.251.15.245:8080",
+         "order": 0
+      }
+   ],
+   "comic": {
+      "all_genres": [
+         {
+            "comic_source": "NETTRUYEN",
+            "url": "/comic/allgenres/nettruyen.json"
+         },
+         {
+            "comic_source": "BEETOOM",
+            "url": "/comic/allgenres/beetoon.json"
+         }
+      ],
+      "blacklist": {
+         "genres": [
+            {
+               "comic_source": "NETTRUYEN",
+               "url": "/comic/blacklist/comic/nettruyen.json"
+            },
+            {
+               "comic_source": "BEETOOM",
+               "url": "/comic/blacklist/comic/beetoon.json"
+            }
+         ],
+         "comics": [
+            {
+               "comic_source": "NETTRUYEN",
+               "url": "/comic/blacklist/comic/nettruyen.json"
+            }
+         ]
+      }
+   }
+}
