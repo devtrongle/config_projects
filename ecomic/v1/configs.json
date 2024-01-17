@@ -26,6 +26,16 @@
          "comicSource": "MYTOON",
          "domain": "http://148.251.15.245:8080",
          "order": 0
+      },
+      {
+         "comicSource": "MANGAGECKO",
+         "domain": "https://www.mgeko.com",
+         "order": 0
+      },
+      {
+         "comicSource": "MANGAGECKO",
+         "domain": "https://www.mangageko.com",
+         "order": 1
       }
    ],
    "comic": {
@@ -37,6 +47,10 @@
          {
             "comic_source": "BEETOOM",
             "url": "/comic/allgenres/beetoon.json"
+         },
+         {
+            "comic_source": "MANGAGECKO",
+            "url": "/comic/allgenres/mangagecko.json"
          }
       ],
       "blacklist": {
@@ -48,6 +62,10 @@
             {
                "comic_source": "BEETOOM",
                "url": "/comic/blacklist/genre/beetoon.json"
+            },
+            {
+               "comic_source": "MANGAGECKO",
+               "url": "/comic/blacklist/genre/mangagecko.json"
             }
          ],
          "comics": [
