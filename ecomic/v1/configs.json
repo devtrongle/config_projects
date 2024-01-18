@@ -18,19 +18,14 @@
          "order": 2
       },
       {
-         "comicSource": "MANGAGECKO",
+         "comicSource": "MANGAGEKO",
          "domain": "https://www.mgeko.com",
          "order": 0
       },
       {
-         "comicSource": "MANGAGECKO",
+         "comicSource": "MANGAGEKO",
          "domain": "https://www.mangageko.com",
          "order": 1
-      },
-      {
-         "comicSource": "MANGADEX",
-         "domain": "mangadex.org",
-         "order": 0
       }
    ],
    "comic": {
@@ -40,12 +35,8 @@
             "url": "/comic/allgenres/nettruyen.json"
          },
          {
-            "comic_source": "MANGAGECKO",
-            "url": "/comic/allgenres/mangagecko.json"
-         },
-         {
-            "comic_source": "MANGADEX",
-            "url": "/comic/allgenres/mangadex.json"
+            "comic_source": "MANGAGEKO",
+            "url": "/comic/allgenres/mangageko.json"
          }
       ],
       "blacklist": {
@@ -55,12 +46,8 @@
                "url": "/comic/blacklist/genre/nettruyen.json"
             },
             {
-               "comic_source": "MANGAGECKO",
-               "url": "/comic/blacklist/genre/mangagecko.json"
-            },
-            {
-               "comic_source": "MANGADEX",
-               "url": "/comic/blacklist/genre/mangadex.json"
+               "comic_source": "MANGAGEKO",
+               "url": "/comic/blacklist/genre/mangageko.json"
             }
          ],
          "comics": [
