@@ -1,6 +1,7 @@
 {
    "version": 1,
    "latest_update": "2024/01/14 12:00",
+   "unlock_all_feature_after_days": 7,
    "domains": [
       {
          "comicSource": "NETTRUYEN",
