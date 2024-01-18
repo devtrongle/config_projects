@@ -67,10 +67,6 @@
             {
                "comic_source": "NETTRUYEN",
                "url": "/comic/blacklist/comic/nettruyen.json"
-            },
-            {
-               "comic_source": "MANGADEX",
-               "url": "/comic/blacklist/comic/mangadex.json"
             }
          ]
       }
