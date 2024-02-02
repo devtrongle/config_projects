@@ -29,41 +29,35 @@
          "order": 0
       }
    ],
-   "comic": {
-      "all_genres": [
+   "all_genres": [
+      {
+         "comic_source": "NETTRUYEN",
+         "url": "/comic/allgenres/nettruyen.json"
+      },
+      {
+         "comic_source": "MANGAGEKO",
+         "url": "/comic/allgenres/mangageko.json"
+      },
+      {
+         "comic_source": "TRUYENFULL",
+         "url": "/novel/allgenres/truyenfull.json"
+      }
+   ],
+   "blacklist": {
+      "genres": [
          {
             "comic_source": "NETTRUYEN",
-            "url": "/comic/allgenres/nettruyen.json"
+            "url": "/comic/blacklist/genre/nettruyen.json"
          },
          {
             "comic_source": "MANGAGEKO",
-            "url": "/comic/allgenres/mangageko.json"
+            "url": "/comic/blacklist/genre/mangageko.json"
          }
       ],
-      "blacklist": {
-         "genres": [
-            {
-               "comic_source": "NETTRUYEN",
-               "url": "/comic/blacklist/genre/nettruyen.json"
-            },
-            {
-               "comic_source": "MANGAGEKO",
-               "url": "/comic/blacklist/genre/mangageko.json"
-            }
-         ],
-         "comics": [
-            {
-               "comic_source": "NETTRUYEN",
-               "url": "/comic/blacklist/comic/nettruyen.json"
-            }
-         ]
-      }
-   },
-   "novel": {
-      "all_genres": [
+      "comics": [
          {
-            "comic_source": "TRUYENFULL",
-            "url": "/novel/allgenres/truyenfull.json"
+            "comic_source": "NETTRUYEN",
+            "url": "/comic/blacklist/comic/nettruyen.json"
          }
       ]
    }
