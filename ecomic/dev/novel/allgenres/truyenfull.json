@@ -1,0 +1,268 @@
+[
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 809405928980768819,
+        "key": "vong-du",
+        "name": "Truyện Võng Du",
+        "webUrl": "/the-loai/vong-du/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4394830081319393499,
+        "key": "dong-phuong",
+        "name": "Truyện Đông Phương",
+        "webUrl": "/the-loai/dong-phuong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3117361521279661859,
+        "key": "phuong-tay",
+        "name": "Truyện Phương Tây",
+        "webUrl": "/the-loai/phuong-tay/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -4928846746359941768,
+        "key": "khac",
+        "name": "Truyện Khác",
+        "webUrl": "/the-loai/khac/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4411390667342883712,
+        "key": "xuyen-nhanh",
+        "name": "Truyện Xuyên Nhanh",
+        "webUrl": "/the-loai/xuyen-nhanh/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4411390667340126602,
+        "key": "xuyen-khong",
+        "name": "Truyện Xuyên Không",
+        "webUrl": "/the-loai/xuyen-khong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6644839223891024765,
+        "key": "dien-van",
+        "name": "Truyện Điền Văn",
+        "webUrl": "/the-loai/dien-van/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 809405912774157595,
+        "key": "di-nang",
+        "name": "Truyện Dị Năng",
+        "webUrl": "/the-loai/di-nang/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3117475642463597516,
+        "key": "trong-sinh",
+        "name": "Truyện Trọng Sinh",
+        "webUrl": "/the-loai/trong-sinh/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -4928846746359690540,
+        "key": "sung",
+        "name": "Truyện Sủng",
+        "webUrl": "/the-loai/sung/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6644839229101530247,
+        "key": "doan-van",
+        "name": "Truyện Đoản Văn",
+        "webUrl": "/the-loai/doan-van/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4398276614746059844,
+        "key": "huyen-huyen",
+        "name": "Truyện Huyền Huyễn",
+        "webUrl": "/the-loai/huyen-huyen/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4191503691547086192,
+        "key": "nu-phu",
+        "name": "Truyện Nữ Phụ",
+        "webUrl": "/the-loai/nu-phu/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3075844744981631453,
+        "key": "tham-hiem",
+        "name": "Truyện Thám Hiểm",
+        "webUrl": "/the-loai/tham-hiem/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3117475477416570433,
+        "key": "trinh-tham",
+        "name": "Truyện Trinh Thám",
+        "webUrl": "/the-loai/trinh-tham/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4191503691244166658,
+        "key": "dam-my",
+        "name": "Truyện Đam Mỹ",
+        "webUrl": "/the-loai/dam-my/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -5220296547479021417,
+        "key": "nguoc",
+        "name": "Truyện Ngược",
+        "webUrl": "/the-loai/nguoc/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 809405912773956779,
+        "key": "di-gioi",
+        "name": "Truyện Dị Giới",
+        "webUrl": "/the-loai/di-gioi/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4191503691255257388,
+        "key": "do-thi",
+        "name": "Truyện Đô Thị",
+        "webUrl": "/the-loai/do-thi/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6644839326897696631,
+        "key": "hai-huoc",
+        "name": "Truyện Hài Hước",
+        "webUrl": "/the-loai/hai-huoc/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6644839207279635247,
+        "key": "cung-dau",
+        "name": "Truyện Cung Đấu",
+        "webUrl": "/the-loai/cung-dau/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3117229143810300880,
+        "key": "khoa-huyen",
+        "name": "Truyện Khoa Huyễn",
+        "webUrl": "/the-loai/khoa-huyen/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4191503691226612644,
+        "key": "co-dai",
+        "name": "Truyện Cổ Đại",
+        "webUrl": "/the-loai/co-dai/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4401222588257604972,
+        "key": "light-novel",
+        "name": "Truyện Light Novel",
+        "webUrl": "/the-loai/light-novel/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 809405920596309163,
+        "key": "mat-the",
+        "name": "Truyện Mạt Thế",
+        "webUrl": "/the-loai/mat-the/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4405632991911671796,
+        "key": "quan-truong",
+        "name": "Truyện Quan Trường",
+        "webUrl": "/the-loai/quan-truong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6644839161702954649,
+        "key": "bach-hop",
+        "name": "Truyện Bách Hợp",
+        "webUrl": "/the-loai/bach-hop/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3075839612576831147,
+        "key": "ngon-tinh",
+        "name": "Truyện Ngôn Tình",
+        "webUrl": "/the-loai/ngon-tinh/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 809405915482757809,
+        "key": "gia-dau",
+        "name": "Truyện Gia Đấu",
+        "webUrl": "/the-loai/gia-dau/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6644839508055957481,
+        "key": "nu-cuong",
+        "name": "Truyện Nữ Cường",
+        "webUrl": "/the-loai/nu-cuong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 809405919933986882,
+        "key": "linh-di",
+        "name": "Truyện Linh Dị",
+        "webUrl": "/the-loai/linh-di/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6644839328795526493,
+        "key": "he-thong",
+        "name": "Truyện Hệ Thống",
+        "webUrl": "/the-loai/he-thong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3075837100024923322,
+        "key": "kiem-hiep",
+        "name": "Truyện Kiếm Hiệp",
+        "webUrl": "/the-loai/kiem-hiep/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6644839719123612200,
+        "key": "viet-nam",
+        "name": "Truyện Việt Nam",
+        "webUrl": "/the-loai/viet-nam/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3075844776072889442,
+        "key": "tien-hiep",
+        "name": "Truyện Tiên Hiệp",
+        "webUrl": "/the-loai/tien-hiep/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 809405919923828628,
+        "key": "lich-su",
+        "name": "Truyện Lịch Sử",
+        "webUrl": "/the-loai/lich-su/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4408029967830304835,
+        "key": "truyen-teen",
+        "name": "Truyện Truyện Teen",
+        "webUrl": "/the-loai/truyen-teen/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 809405924703228549,
+        "key": "quan-su",
+        "name": "Truyện Quân Sự",
+        "webUrl": "/the-loai/quan-su/"
+    }
+]
