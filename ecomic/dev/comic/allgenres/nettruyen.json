@@ -213,7 +213,8 @@
         "id": 35,
         "name": "Romance",
         "key": "35",
-        "comicSource": "NETTRUYEN"
+        "comicSource": "NETTRUYEN",
+        "webUrl" : ""
     },
     {
         "id": 36,
