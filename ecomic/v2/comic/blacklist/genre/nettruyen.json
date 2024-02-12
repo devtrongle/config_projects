@@ -42,20 +42,6 @@
         "webUrl" : ""
     },
     {
-        "id": 45,
-        "name": "Soft Yaoi",
-        "key": "45",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
-    },
-    {
-        "id": 46,
-        "name": "Soft Yuri",
-        "key": "46",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
-    },
-    {
         "id": 10,
         "name": "Doujinshi",
         "key": "10",
@@ -63,23 +49,9 @@
         "webUrl" : ""
     },
     {
-        "id": 40,
-        "name": "Shoujo Ai",
-        "key": "40",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
-    },
-    {
         "id": 2,
         "name": "Adult",
         "key": "2",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
-    },
-    {
-        "id": 12,
-        "name": "Đam Mỹ",
-        "key": "12",
         "comicSource": "NETTRUYEN",
         "webUrl" : ""
     },
