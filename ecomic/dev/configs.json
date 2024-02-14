@@ -1,17 +1,12 @@
 {
-   "version": 5,
-   "latest_update": "2024/02/12 15:00",
+   "version": 6,
+   "latest_update": "2024/02/14 15:00",
    "unlock_all_feature_after_days": 5,
    "domains": [
        {
          "comicSource": "NETTRUYEN",
          "domain": "https://www.nettruyenss.com",
          "order": 0
-      },
-      {
-         "comicSource": "NETTRUYEN",
-         "domain": "https://www.nettruyenclub.com",
-         "order": 1
       },
       {
          "comicSource": "MANGAGEKO",
@@ -27,6 +22,11 @@
          "comicSource": "TRUYENFULL",
          "domain": "https://truyenfull.vn",
          "order": 0
+      },
+      {
+         "comicSource": "TRUYENQQ",
+         "domain": "https://truyenqqvn.com",
+         "order": 0
       }
    ],
    "all_genres": [
@@ -41,6 +41,10 @@
       {
          "comic_source": "TRUYENFULL",
          "url": "/novel/allgenres/truyenfull.json"
+      },
+      {
+         "comic_source": "TRUYENQQ",
+         "url": "/novel/allgenres/truyenqq.json"
       }
    ],
    "blacklist": {
@@ -52,6 +56,10 @@
          {
             "comic_source": "MANGAGEKO",
             "url": "/comic/blacklist/genre/mangageko.json"
+         },
+         {
+            "comic_source": "TRUYENQQ",
+            "url": "/comic/blacklist/genre/truyenqq.json"
          }
       ],
       "comics": [
