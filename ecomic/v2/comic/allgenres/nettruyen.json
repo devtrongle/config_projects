@@ -1,401 +1,450 @@
 [
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại này thường có nội dung về đánh nhau, bạo lực, hỗn loạn, với diễn biến nhanh",
         "id": 1,
-        "name": "Action",
         "key": "1",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Action",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại Adult đề cập đến vấn đề nhạy cảm, chỉ dành cho tuổi 17+",
         "id": 2,
-        "name": "Adult",
         "key": "2",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Adult",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại phiêu lưu, mạo hiểm, thường là hành trình của các nhân vật",
         "id": 3,
-        "name": "Adventure",
         "key": "3",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Adventure",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện đã được chuyển thể thành film Anime",
         "id": 4,
-        "name": "Anime",
         "key": "4",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Anime",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại này là những câu chuyện về người ở một thế giới này xuyên đến một thế giới khác, có thể là thế giới mang phong cách trung cổ với kiếm sĩ và ma thuật, hay thế giới trong game, hoặc có thể là bạn chết ở nơi này và được chuyển sinh đến nơi khác",
         "id": 5,
-        "name": "Chuyển Sinh",
         "key": "5",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Chuyển Sinh",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại có nội dung trong sáng và cảm động, thường có các tình tiết gây cười, các xung đột nhẹ nhàng",
         "id": 6,
-        "name": "Comedy",
         "key": "6",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Comedy",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tranh Châu Âu và Châu Mĩ",
         "id": 7,
-        "name": "Comic",
         "key": "7",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Comic",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại có nội dung về nấu ăn, ẩm thực",
         "id": 8,
-        "name": "Cooking",
         "key": "8",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Cooking",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện có nội dung xảy ra ở thời cổ đại phong kiến.",
         "id": 9,
-        "name": "Cổ Đại",
         "key": "9",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Cổ Đại",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại truyện phóng tác do fan hay có thể cả những Mangaka khác với tác giả truyện gốc. Tác giả vẽ Doujinshi thường dựa trên những nhân vật gốc để viết ra những câu chuyện theo sở thích của mình",
         "id": 10,
-        "name": "Doujinshi",
         "key": "10",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Doujinshi",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại mang đến cho người xem những cảm xúc khác nhau: buồn bã, căng thẳng thậm chí là bi phẫn",
         "id": 11,
-        "name": "Drama",
         "key": "11",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Drama",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tình cảm giữa nam và nam.",
         "id": 12,
-        "name": "Đam Mỹ",
         "key": "12",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Đam Mỹ",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thường có những tình huống nhạy cảm nhằm lôi cuốn người xem",
         "id": 13,
-        "name": "Ecchi",
         "key": "13",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Ecchi",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại xuất phát từ trí tưởng tượng phong phú, từ pháp thuật đến thế giới trong mơ thậm chí là những câu chuyện thần tiên",
         "id": 14,
-        "name": "Fantasy",
         "key": "14",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Fantasy",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Là một thể loại trong đó giới tính của nhân vật bị lẫn lộn: nam hoá thành nữ, nữ hóa thành nam...",
         "id": 15,
-        "name": "Gender Bender",
         "key": "15",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Gender Bender",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại truyện tình cảm, lãng mạn mà trong đó, nhiều nhân vật nữ thích một nam nhân vật chính",
         "id": 16,
-        "name": "Harem",
         "key": "16",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Harem",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "",
         "id": 17,
-        "name": "Lịch sử",
         "key": "17",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Lịch sử",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Horror là: rùng rợn, nghe cái tên là bạn đã hiểu thể loại này có nội dung thế nào. Nó làm cho bạn kinh hãi, khiếp sợ, ghê tởm, run rẩy, có thể gây sock - một thể loại không dành cho người yếu tim",
         "id": 18,
-        "name": "Horror",
         "key": "18",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Horror",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại của manga hay anime được sáng tác chủ yếu bởi phụ nữ cho những độc giả nữ từ 18 đến 30. Josei manga có thể miêu tả những lãng mạn thực tế , nhưng trái ngược với hầu hết các kiểu lãng mạn lí tưởng của Shoujo manga với cốt truyện rõ ràng, chín chắn",
         "id": 20,
-        "name": "Josei",
         "key": "20",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Josei",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện đã được chuyển thể thành phim",
         "id": 21,
-        "name": "Live action",
         "key": "21",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Live action",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tranh của Nhật Bản",
         "id": 23,
-        "name": "Manga",
         "key": "23",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Manga",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tranh của Trung Quốc",
         "id": 24,
-        "name": "Manhua",
         "key": "24",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Manhua",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tranh Hàn Quốc, đọc từ trái sang phải",
         "id": 25,
-        "name": "Manhwa",
         "key": "25",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Manhwa",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Giống với tên gọi, bất cứ gì liên quan đến võ thuật trong truyện từ các trận đánh nhau, tự vệ đến các môn võ thuật như akido, karate, judo hay taekwondo, kendo, các cách né tránh",
         "id": 26,
-        "name": "Martial Arts",
         "key": "26",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Martial Arts",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại dành cho lứa tuổi 17+ bao gồm các pha bạo lực, máu me, chém giết, tình dục ở mức độ vừa",
         "id": 27,
-        "name": "Mature",
         "key": "27",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Mature",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Mecha, còn được biết đến dưới cái tên meka hay mechs, là thể loại nói tới những cỗ máy biết đi (thường là do phi công cầm lái)",
         "id": 28,
-        "name": "Mecha",
         "key": "28",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Mecha",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại thường xuất hiện những điều bí ấn không thể lí giải được và sau đó là những nỗ lực của nhân vật chính nhằm tìm ra câu trả lời thỏa đáng",
         "id": 30,
-        "name": "Mystery",
         "key": "30",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Mystery",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện thuộc kiểu lãng mạn, kể về những sự kiện vui buồn trong tình yêu của nhân vật chính.",
         "id": 32,
-        "name": "Ngôn Tình",
         "key": "32",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Ngôn Tình",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Những truyện ngắn, thường là 1 chapter",
         "id": 33,
-        "name": "One shot",
         "key": "33",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "One shot",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại liên quan đến những vấn đề về tâm lý của nhân vật ( tâm thần bất ổn, điên cuồng ...)",
         "id": 34,
-        "name": "Psychological",
         "key": "34",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Psychological",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thường là những câu chuyện về tình yêu, tình cảm lãng mạn. Ớ đây chúng ta sẽ lấy ví dụ như tình yêu giữa một người con trai và con gái, bên cạnh đó đặc điểm thể loại này là kích thích trí tưởng tượng của bạn về tình yêu",
         "id": 35,
-        "name": "Romance",
         "key": "35",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Romance",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Trong thể loại này, ngữ cảnh diễn biến câu chuyện chủ yếu ở trường học",
         "id": 36,
-        "name": "School Life",
         "key": "36",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "School Life",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Bao gồm những chuyện khoa học viễn tưởng, đa phần chúng xoay quanh nhiều hiện tượng mà liên quan tới khoa học, công nghệ, tuy vậy thường thì những câu chuyện đó không gắn bó chặt chẽ với các thành tựu khoa học hiện thời, mà là do con người tưởng tượng ra",
         "id": 37,
-        "name": "Sci-fi",
         "key": "37",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Sci-fi",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại của manga thường nhằm vào những đối tượng nam 18 đến 30 tuổi, nhưng người xem có thể lớn tuổi hơn, với một vài bộ truyện nhắm đến các doanh nhân nam quá 40. Thể loại này có nhiều phong cách riêng biệt , nhưng thể loại này có những nét riêng biệt, thường được phân vào những phong cách nghệ thuật rộng hơn và phong phú hơn về chủ đề, có các loại từ mới mẻ tiên tiến đến khiêu dâm",
         "id": 38,
-        "name": "Seinen",
         "key": "38",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Seinen",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Đối tượng hướng tới của thể loại này là phái nữ. Nội dung của những bộ manga này thường liên quan đến tình cảm lãng mạn, chú trọng đầu tư cho nhân vật (tính cách,...)",
         "id": 39,
-        "name": "Shoujo",
         "key": "39",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Shoujo",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại quan hệ hoặc liên quan tới đồng tính nữ, thể hiện trong các mối quan hệ trên mức bình thường giữa các nhân vật nữ trong các manga, anime",
         "id": 40,
-        "name": "Shoujo Ai",
         "key": "40",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Shoujo Ai",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Đối tượng hướng tới của thể loại này là phái nam. Nội dung của những bộ manga này thường liên quan đến đánh nhau và/hoặc bạo lực (ở mức bình thường, không thái quá)",
         "id": 41,
-        "name": "Shounen",
         "key": "41",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Shounen",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại có nội dung về tình yêu giữa những chàng trai trẻ, mang tính chất lãng mạn nhưng ko đề cập đến quan hệ tình dục",
         "id": 42,
-        "name": "Shounen Ai",
         "key": "42",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Shounen Ai",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Nói về cuộc sống đời thường",
         "id": 43,
-        "name": "Slice of Life",
         "key": "43",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Slice of Life",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Những truyện có nội dung hơi nhạy cảm, đặc biệt là liên quan đến tình dục",
         "id": 44,
-        "name": "Smut",
         "key": "44",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Smut",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Boy x Boy. Nặng hơn Shounen Ai tí.",
         "id": 45,
-        "name": "Soft Yaoi",
         "key": "45",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Soft Yaoi",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Girl x Girl. Nặng hơn Shoujo Ai tí",
         "id": 46,
-        "name": "Soft Yuri",
         "key": "46",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Soft Yuri",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Đúng như tên gọi, những môn thể thao như bóng đá, bóng chày, bóng chuyền, đua xe, cầu lông,... là một phần của thể loại này",
         "id": 47,
-        "name": "Sports",
         "key": "47",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Sports",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể hiện những sức mạnh đáng kinh ngạc và không thể giải thích được, chúng thường đi kèm với những sự kiện trái ngược hoặc thách thức với những định luật vật lý",
         "id": 48,
-        "name": "Supernatural",
         "key": "48",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Supernatural",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Tạp chí online về manga anime v.v..",
         "id": 49,
-        "name": "Tạp chí truyện tranh",
         "key": "49",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Tạp chí truyện tranh",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tranh dành cho lứa tuổi thiếu nhi",
         "id": 50,
-        "name": "Thiếu Nhi",
         "key": "50",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Thiếu Nhi",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Thể loại chứa đựng những sự kiện mà dẫn đến kết cục là những mất mát hay sự rủi ro to lớn",
         "id": 51,
-        "name": "Tragedy",
         "key": "51",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Tragedy",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Các truyện có nội dung về các vụ án, các thám tử cảnh sát điều tra...",
         "id": 52,
-        "name": "Trinh Thám",
         "key": "52",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Trinh Thám",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Tổng hợp truyện tranh màu, rõ, đẹp",
         "id": 53,
-        "name": "Truyện Màu",
         "key": "53",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Truyện Màu",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Các truyện đã phát hành tại VN được scan đăng online",
         "id": 54,
-        "name": "Truyện scan",
         "key": "54",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Truyện scan",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tranh Việt Nam",
         "id": 55,
-        "name": "Việt Nam",
         "key": "55",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Việt Nam",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Là truyện tranh được đăng dài kỳ trên internet của Hàn Quốc chứ không xuất bản theo cách thông thường",
         "id": 56,
-        "name": "Webtoon",
         "key": "56",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Webtoon",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Xuyên Không, Xuyên Việt là thể loại nhân vật chính vì một lý do nào đó mà bị đưa đến sinh sống ở một không gian hay một khoảng thời gian khác. Nhân vật chính có thể trực tiếp xuyên qua bằng thân xác mình hoặc sống lại bằng thân xác người khác.",
         "id": 57,
-        "name": "Xuyên Không",
         "key": "57",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Xuyên Không",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tranh đồng tính nam có nói về quan hệ thể xác, chia 2 cấp Soft Yaoi và Hard Yaoi (Nhẹ và Nặng)",
         "id": 58,
-        "name": "Yaoi",
         "key": "58",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Yaoi",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Truyện tranh đồng tính nữ có nói về quan hệ thể xác, cũng có 2 cấp Soft Yuri và Hard Yuri",
         "id": 59,
-        "name": "Yuri",
         "key": "59",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "Yuri",
+        "webUrl": ""
     },
     {
+        "comicSource": "NETTRUYEN",
+        "description": "Là thể loại có nhiều cảnh nóng, đề cập đến các vấn đề nhạy cảm giới tính hay các cảnh bạo lực máu me .... Nói chung là truyện có tác động xấu đến tâm sinh lý của những độc giả chưa đủ 16 tuổi",
         "id": 60,
-        "name": "16+",
         "key": "60",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
-    },
-    {
-        "id": 61,
-        "name": "18+",
-        "key": "61",
-        "comicSource": "NETTRUYEN",
-        "webUrl" : ""
+        "name": "16+",
+        "webUrl": ""
     }
 ]
