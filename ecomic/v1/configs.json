@@ -9,11 +9,6 @@
          "order": 0
       },
       {
-         "comicSource": "NETTRUYEN",
-         "domain": "https://www.nettruyenclub.com",
-         "order": 1
-      },
-      {
          "comicSource": "MANGAGEKO",
          "domain": "https://www.mgeko.com",
          "order": 0
