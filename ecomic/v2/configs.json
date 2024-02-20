@@ -5,13 +5,8 @@
    "domains": [
        {
          "comicSource": "NETTRUYEN",
-         "domain": "https://www.nettruyenss.com",
+         "domain": "https://www.nettruyenbb.com",
          "order": 0
-      },
-      {
-         "comicSource": "NETTRUYEN",
-         "domain": "https://www.nettruyenclub.com",
-         "order": 1
       },
       {
          "comicSource": "MANGAGEKO",
