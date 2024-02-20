@@ -12,11 +12,6 @@
          "comicSource": "MANGAGEKO",
          "domain": "https://www.mgeko.com",
          "order": 0
-      },
-      {
-         "comicSource": "MANGAGEKO",
-         "domain": "https://www.mangageko.com",
-         "order": 1
       }
    ],
    "comic": {
