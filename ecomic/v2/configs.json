@@ -14,11 +14,6 @@
          "order": 0
       },
       {
-         "comicSource": "MANGAGEKO",
-         "domain": "https://www.mangageko.com",
-         "order": 1
-      },
-      {
          "comicSource": "TRUYENFULL",
          "domain": "https://truyenfull.vn",
          "order": 0
