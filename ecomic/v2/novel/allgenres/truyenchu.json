@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "name": "Tiên hiệp",
+        "key": "1",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/tien-hiep"
+    },
+    {
+        "id": 2,
+        "name": "Huyền huyễn",
+        "key": "2",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/huyen-huyen"
+    },
+    {
+        "id": 3,
+        "name": "Khoa huyễn",
+        "key": "3",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/khoa-huyen"
+    },
+    {
+        "id": 4,
+        "name": "Võng du",
+        "key": "4",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/vong-du"
+    },
+    {
+        "id": 5,
+        "name": "Đô thị",
+        "key": "5",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/do-thi"
+    },
+    {
+        "id": 6,
+        "name": "Đồng nhân",
+        "key": "6",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/dong-nhan"
+    },
+    {
+        "id": 7,
+        "name": "Dã sử",
+        "key": "7",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/da-su"
+    },
+    {
+        "id": 8,
+        "name": "Cạnh kỹ",
+        "key": "8",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/canh-ky"
+    },
+    {
+        "id": 9,
+        "name": "Huyền Nghi",
+        "key": "9",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/huyen-nghi"
+    },
+    {
+        "id": 10,
+        "name": "Kiếm hiệp",
+        "key": "10",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/kiem-hiep"
+    },
+    {
+        "id": 11,
+        "name": "Kỳ ảo",
+        "key": "11",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/ky-ao"
+    },
+    {
+        "id": 12,
+        "name": "Sắc",
+        "key": "12",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/sac"
+    },
+    {
+        "id": 13,
+        "name": "Ngôn tình",
+        "key": "13",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/ngon-tinh"
+    },
+    {
+        "id": 14,
+        "name": "Đam mỹ",
+        "key": "14",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/dam-my"
+    },
+    {
+        "id": 15,
+        "name": "Bách hợp",
+        "key": "15",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/bach-hop"
+    },
+    {
+        "id": 16,
+        "name": "Truyện teen",
+        "key": "16",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/truyen-teen"
+    },
+    {
+        "id": 17,
+        "name": "Light novel",
+        "key": "17",
+        "comicSource": "TRUYENCHU",
+        "webUrl": "/light-novel"
+    }
+]
