@@ -1,6 +1,6 @@
 {
    "version": 6,
-   "latest_update": "2024/02/14 15:00",
+   "latest_update": "2024/02/29 15:00",
    "unlock_all_feature_after_days": 5,
    "domains": [
        {
@@ -19,8 +19,8 @@
          "order": 0
       },
       {
-         "comicSource": "TRUYENQQ",
-         "domain": "https://truyenqqvn.com",
+         "comicSource": "TRUYENCHU",
+         "domain": "https://truyenchu.com.vn",
          "order": 0
       }
    ],
@@ -38,8 +38,8 @@
          "url": "/novel/allgenres/truyenfull.json"
       },
       {
-         "comic_source": "TRUYENQQ",
-         "url": "/comic/allgenres/truyenqq.json"
+         "comic_source": "TRUYENCHU",
+         "url": "/novel/allgenres/truyenchu.json"
       }
    ],
    "blacklist": {
@@ -51,10 +51,6 @@
          {
             "comic_source": "MANGAGEKO",
             "url": "/comic/blacklist/genre/mangageko.json"
-         },
-         {
-            "comic_source": "TRUYENQQ",
-            "url": "/comic/blacklist/genre/truyenqq.json"
          }
       ],
       "comics": [
