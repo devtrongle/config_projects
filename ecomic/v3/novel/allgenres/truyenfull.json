@@ -1,0 +1,261 @@
+[
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -2750289117115177343,
+        "key": "truyen-gia-dau",
+        "name": "Gia Đấu",
+        "webUrl": "/truyen-gia-dau/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6974757660822850231,
+        "key": "truyen-doan-van",
+        "name": "Đoản Văn",
+        "webUrl": "/truyen-doan-van/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -6634337868735506382,
+        "key": "truyen-dam-my",
+        "name": "Đam Mỹ",
+        "webUrl": "/truyen-dam-my/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6974757639000955231,
+        "key": "truyen-cung-dau",
+        "name": "Cung Đấu",
+        "webUrl": "/truyen-cung-dau/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 880238203972025515,
+        "key": "truyen-dong-phuong",
+        "name": "Đông Phương",
+        "webUrl": "/truyen-dong-phuong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -2750289119823777557,
+        "key": "truyen-di-nang",
+        "name": "Dị Năng",
+        "webUrl": "/truyen-di-nang/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 893186328102540838,
+        "key": "truyen-tieu-thuyet",
+        "name": "Tiểu Thuyết ",
+        "webUrl": "/truyen-tieu-thuyet/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6574192774936428032,
+        "key": "truyen-khoa-huyen",
+        "name": "Khoa Huyễn",
+        "webUrl": "/truyen-khoa-huyen/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4408029967830039464,
+        "key": "truyen-khac",
+        "name": "Khác",
+        "webUrl": "/truyen-khac/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 886630710910236988,
+        "key": "truyen-light-novel",
+        "name": "Light Novel",
+        "webUrl": "/truyen-light-novel/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -6634337868432586848,
+        "key": "truyen-nu-phu",
+        "name": "Nữ Phụ",
+        "webUrl": "/truyen-nu-phu/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6974757593424274633,
+        "key": "truyen-bach-hop",
+        "name": "Bách Hợp",
+        "webUrl": "/truyen-bach-hop/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6574439108542697585,
+        "key": "truyen-trinh-tham",
+        "name": "Trinh Thám",
+        "webUrl": "/truyen-trinh-tham/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6974757758619016615,
+        "key": "truyen-hai-huoc",
+        "name": "Hài Hước",
+        "webUrl": "/truyen-hai-huoc/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 896798789992758618,
+        "key": "truyen-xuyen-khong",
+        "name": "Xuyên Không",
+        "webUrl": "/truyen-xuyen-khong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6974757939777277465,
+        "key": "truyen-nu-cuong",
+        "name": "Nữ Cường",
+        "webUrl": "/truyen-nu-cuong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -5143435590323708790,
+        "key": "truyen-kiem-hiep",
+        "name": "Kiếm Hiệp",
+        "webUrl": "/truyen-kiem-hiep/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -5143427945367000659,
+        "key": "truyen-tham-hiem",
+        "name": "Thám Hiểm",
+        "webUrl": "/truyen-tham-hiem/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -2750289103617166333,
+        "key": "truyen-vong-du",
+        "name": "Võng Du",
+        "webUrl": "/truyen-vong-du/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6574439273589724668,
+        "key": "truyen-trong-sinh",
+        "name": "Trọng Sinh",
+        "webUrl": "/truyen-trong-sinh/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4408029967830304835,
+        "key": "truyen-teen",
+        "name": "Truyện Teen",
+        "webUrl": "/truyen-teen/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -2750289119823978373,
+        "key": "truyen-di-gioi",
+        "name": "Dị Giới",
+        "webUrl": "/truyen-di-gioi/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -2750289112674106524,
+        "key": "truyen-lich-su",
+        "name": "Lịch Sử",
+        "webUrl": "/truyen-lich-su/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -5143427914275742670,
+        "key": "truyen-tien-hiep",
+        "name": "Tiên Hiệp",
+        "webUrl": "/truyen-tien-hiep/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -5143433077771800965,
+        "key": "truyen-ngon-tinh",
+        "name": "Ngôn Tình",
+        "webUrl": "/truyen-ngon-tinh/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -2750289107894706603,
+        "key": "truyen-quan-su",
+        "name": "Quân Sự",
+        "webUrl": "/truyen-quan-su/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 891041114564303812,
+        "key": "truyen-quan-truong",
+        "name": "Quan Trường",
+        "webUrl": "/truyen-quan-truong/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -2750289112663948270,
+        "key": "truyen-linh-di",
+        "name": "Linh Dị",
+        "webUrl": "/truyen-linh-di/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -2750289112001625989,
+        "key": "truyen-mat-the",
+        "name": "Mạt Thế",
+        "webUrl": "/truyen-mat-the/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -9160273881701634714,
+        "key": "truyen-van-hoc-viet",
+        "name": "Văn Học Việt ",
+        "webUrl": "/truyen-van-hoc-viet/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 3117475817302517068,
+        "key": "truyen-sac",
+        "name": "Sắc",
+        "webUrl": "/truyen-sac/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 4408029967830290692,
+        "key": "truyen-sung",
+        "name": "Sủng",
+        "webUrl": "/truyen-sung/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 7521720486767122535,
+        "key": "truyen-nguoc",
+        "name": "Ngược",
+        "webUrl": "/truyen-nguoc/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -6634337868724415652,
+        "key": "truyen-do-thi",
+        "name": "Đô Thị",
+        "webUrl": "/truyen-do-thi/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 883684737398691860,
+        "key": "truyen-huyen-huyen",
+        "name": "Huyền Huyễn",
+        "webUrl": "/truyen-huyen-huyen/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": 6974757655612344749,
+        "key": "truyen-dien-van",
+        "name": "Điền Văn",
+        "webUrl": "/truyen-dien-van/"
+    },
+    {
+        "comicSource": "TRUYENFULL",
+        "id": -6634337868753060396,
+        "key": "truyen-co-dai",
+        "name": "Cổ Đại",
+        "webUrl": "/truyen-co-dai/"
+    }
+]
