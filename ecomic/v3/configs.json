@@ -1,11 +1,11 @@
 {
    "version": 6,
    "latest_update": "2024/02/12 15:00",
-   "unlock_all_feature_after_days": 5,
+   "unlock_all_feature_after_days": 30,
    "domains": [
        {
          "comicSource": "NETTRUYEN",
-         "domain": "https://www.nettruyenhh.com",
+         "domain": "https://www.nettruyentt.com",
          "order": 0
       },
       {
