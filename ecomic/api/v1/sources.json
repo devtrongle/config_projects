@@ -1,0 +1,45 @@
+{
+    "status": 200,
+    "timestamp": 1724860402911,
+    "message": "Success",
+    "data": {
+        "total": 7,
+        "list": [
+            {
+                "sourceId": "NETTRUYEN",
+                "webUrl": "https://nettruyenvv.com",
+                "storyType": 1
+            },
+            {
+                "sourceId": "MANGAGEKO",
+                "webUrl": "https://www.mgeko.cc",
+                "storyType": 2
+            },
+            {
+                "sourceId": "NOVELVN",
+                "webUrl": "https://truyenf.com",
+                "storyType": 3
+            },
+            {
+                "sourceId": "TRUYENQQ",
+                "webUrl": "https://truyenqqto.com",
+                "storyType": 5
+            },
+            {
+                "sourceId": "BLOGTRUYEN",
+                "webUrl": "https://blogtruyenmoi.com",
+                "storyType": 6
+            },
+            {
+                "sourceId": "TRUYENFULL",
+                "webUrl": "https://truyenfull.com",
+                "storyType": 7
+            },
+            {
+                "sourceId": "MANGADEX",
+                "webUrl": "mangadex.org",
+                "storyType": 8
+            }
+        ]
+    }
+}
