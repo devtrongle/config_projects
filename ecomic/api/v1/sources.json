@@ -1,13 +1,13 @@
 {
     "status": 200,
-    "timestamp": 1725522149050,
+    "timestamp": 1725531014816,
     "message": "Success",
     "data": {
-        "total": 7,
+        "total": 9,
         "list": [
             {
                 "sourceId": "NETTRUYEN",
-                "webUrl": "https://nettruyenvv.com",
+                "webUrl": "https://comicfan.top",
                 "storyType": 1
             },
             {
@@ -39,6 +39,16 @@
                 "sourceId": "MANGADEX",
                 "webUrl": "mangadex.org",
                 "storyType": 8
+            },
+            {
+                "sourceId": "BLOGTRUYENVN",
+                "webUrl": "blogtruyen.vn",
+                "storyType": 9
+            },
+            {
+                "sourceId": "NETTRUYENNEW",
+                "webUrl": "nettruyenll.com",
+                "storyType": 10
             }
         ]
     }
