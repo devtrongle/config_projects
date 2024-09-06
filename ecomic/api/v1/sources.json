@@ -1,9 +1,9 @@
 {
     "status": 200,
-    "timestamp": 1725531014816,
+    "timestamp": 1725591073315,
     "message": "Success",
     "data": {
-        "total": 9,
+        "total": 8,
         "list": [
             {
                 "sourceId": "NETTRUYEN",
@@ -41,14 +41,9 @@
                 "storyType": 8
             },
             {
-                "sourceId": "BLOGTRUYENVN",
-                "webUrl": "blogtruyen.vn",
+                "sourceId": "MANGAFIRE",
+                "webUrl": "mangafire.to",
                 "storyType": 9
-            },
-            {
-                "sourceId": "NETTRUYENNEW",
-                "webUrl": "nettruyenll.com",
-                "storyType": 10
             }
         ]
     }
