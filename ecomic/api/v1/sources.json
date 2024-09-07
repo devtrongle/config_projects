@@ -44,6 +44,11 @@
                 "sourceId": "MANGAFIRE",
                 "webUrl": "mangafire.to",
                 "storyType": 9
+            },
+            {
+                "sourceId": "CMANGA",
+                "webUrl": "cmangaog.com",
+                "storyType": 10
             }
         ]
     }
