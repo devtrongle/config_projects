@@ -25,11 +25,6 @@
                 "storyType": 5
             },
             {
-                "sourceId": "BLOGTRUYEN",
-                "webUrl": "https://blogtruyenmoi.com",
-                "storyType": 6
-            },
-            {
                 "sourceId": "TRUYENFULL",
                 "webUrl": "https://truyenfull.tv",
                 "storyType": 7
@@ -45,10 +40,10 @@
                 "storyType": 9
             },
             {
-                "sourceId": "CMANGA",
-                "webUrl": "cmangaog.com",
-                "storyType": 10
-            }
+                "sourceId": "NETTRUYENWW",
+                "webUrl": "https://nettruyenww.com",
+                "storyType": 11
+            },
         ],
         "genres": [
             {
