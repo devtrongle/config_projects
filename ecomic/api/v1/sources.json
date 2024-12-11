@@ -1,6 +1,6 @@
 {
     "status": 200,
-    "timestamp": 1725591073315,
+    "timestamp": 1733937136424,
     "message": "Success",
     "data": {
         "total": 8,
@@ -43,7 +43,7 @@
             {
                 "sourceId": "NETTRUYENWW",
                 "webUrl": "https://nettruyenww.com",
-                "storyType": 11
+                "storyType": 10
             }
         ]
     }
